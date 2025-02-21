@@ -23,7 +23,7 @@ Hi there! I'm **Afsar** and I am currently diving deep into the world of technol
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chowdhuryafsaruddin2006)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chowdhuryafsaruddin2006)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1234567890)  *(Replace with your actual WhatsApp number)*
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801325974242)
 
 ---
 
@@ -44,6 +44,8 @@ Here’s what others have to say about my work:
 > **John Doe** - *"Afsar’s work on our web project was fantastic! He is highly skilled, professional, and always brings fresh ideas."*
 
 > **Jane Smith** - *"I highly recommend Afsar. His web development expertise and dedication make him stand out as a developer."*
+
+> **Michael Johnson** - *"Afsar delivered an exceptional project for us. His communication was great, and the final product exceeded our expectations!"*
 
 ---
 
@@ -69,6 +71,7 @@ Here’s what others have to say about my work:
 Feel free to get in touch! I am always open to discussions and collaborations.
 
 - 📧 **Email**: afsaruddin01022008@gmail.com
+- 📞 **WhatsApp**: [+8801325974242](https://wa.me/8801325974242)
 
 ---
 
