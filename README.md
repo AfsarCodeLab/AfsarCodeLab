@@ -27,16 +27,6 @@ Hi there! I'm **Afsar** and I am currently diving deep into the world of technol
 
 ---
 
-## ⭐ Portfolio
-
-I’m working on several exciting projects and constantly updating them! Here's a peek into my work:
-
-- **Personal Portfolio Website**: [https://www.afsardev.com](https://www.afsardev.com) *(if applicable)*
-- **Web Development Projects**: Full-stack applications, React apps, and more.
-- **Open Source Contributions**: [Contributions](https://github.com/AfsarCodeLab?tab=repositories)
-
----
-
 ## 💬 Reviews & Testimonials
 
 Here’s what others have to say about my work:
@@ -77,8 +67,8 @@ Feel free to get in touch! I am always open to discussions and collaborations.
 
 ## 📊 GitHub Stats
 
-![Afsar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfsarCodeLab&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfsarCodeLab&layout=compact&langs_count=10&hide=html)
+![Afsar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfsarCodeLab&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfsarCodeLab&layout=compact&langs_count=10&theme=radical)
 
 ---
 
