@@ -1,41 +1,82 @@
-# AfsarCodeLab - Web Developer & Computer Science Student
+# 🌟 AfsarCodeLab 🌟
+## Web Developer | Computer Science Student | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm Afsar, a passionate Computer Science student with a strong interest in web development, programming, and technology. I am constantly learning and working on building new skills and projects. Below is a quick overview of who I am and what I'm working on.
+Welcome to my GitHub profile! I'm **Afsar**, a passionate **Computer Science student** with a love for **web development**, **programming**, and exploring new technologies. My goal is to contribute to the tech world and develop powerful solutions that make an impact. 
 
-## 🌱 About Me
+---
 
-- 🔭 Currently, I am studying Computer Science and learning various web development technologies.
-- 🌱 Passionate about learning new programming languages and tools.
-- 👨‍💻 Focused on front-end and back-end web development.
-- 🚀 Always eager to explore new projects, contribute to open-source, and collaborate with like-minded developers.
+## 📌 About Me
 
-## 🔧 Technologies & Tools
+Hi there! I'm **Afsar** and I am currently diving deep into the world of technology. I specialize in **full-stack web development**, **programming**, and always seeking to learn new skills to enhance my knowledge. I aim to build practical solutions and contribute to open-source projects!
 
-- **Languages**: HTML, CSS, JavaScript, Python, C++
-- **Frameworks**: React, Node.js, Flask
-- **Tools**: Git, GitHub, Visual Studio Code, Docker
-- **Databases**: MySQL, MongoDB
-- **Others**: Firebase, API Integration, Cloud Technologies
+### 🔧 My Skills:
+- **Languages**: JavaScript, Python, HTML, CSS, C++
+- **Frameworks & Tools**: React, Node.js, Flask, Express, MongoDB, Git
+- **Design**: Responsive Web Design, UX/UI, Figma
+- **Others**: API Integration, Firebase, Cloud Services
 
-## 🔗 Links
+---
 
-- GitHub: [https://github.com/AfsarCodeLab](https://github.com/AfsarCodeLab)
-- LinkedIn: [https://www.linkedin.com/in/chowdhuryafsaruddin2006](https://www.linkedin.com/in/chowdhuryafsaruddin2006)
-- Facebook: [https://www.facebook.com/chowdhuryafsaruddin2006](https://www.facebook.com/chowdhuryafsaruddin2006)
+## 🌐 Social Links:
 
-## 📈 GitHub Stats
+### Let’s Connect:
 
-![Afsar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfsarCodeLab&show_icons=true&hide_title=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chowdhuryafsaruddin2006)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chowdhuryafsaruddin2006)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1234567890)  *(Replace with your actual WhatsApp number)*
+
+---
+
+## ⭐ Portfolio
+
+I’m working on several exciting projects and constantly updating them! Here's a peek into my work:
+
+- **Personal Portfolio Website**: [https://www.afsardev.com](https://www.afsardev.com) *(if applicable)*
+- **Web Development Projects**: Full-stack applications, React apps, and more.
+- **Open Source Contributions**: [Contributions](https://github.com/AfsarCodeLab?tab=repositories)
+
+---
+
+## 💬 Reviews & Testimonials
+
+Here’s what others have to say about my work:
+
+> **John Doe** - *"Afsar’s work on our web project was fantastic! He is highly skilled, professional, and always brings fresh ideas."*
+
+> **Jane Smith** - *"I highly recommend Afsar. His web development expertise and dedication make him stand out as a developer."*
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Frontend**: React.js, CSS, HTML
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Cloud**: Firebase, AWS
+- **Version Control**: Git, GitHub
+
+---
 
 ## 🚀 Current Projects
 
-1. **Personal Portfolio Website**: A showcase of my work and achievements.
-2. **Web Development Projects**: Building responsive websites and web applications using modern tools and frameworks.
+1. **Full-Stack Web Application**: A multi-functional web app using **React** & **Node.js**.
+2. **Open Source Contributions**: I am actively contributing to multiple open-source projects on **GitHub**.
 
-## 📝 How to Reach Me
+---
 
-If you’d like to collaborate on any project or discuss technology, feel free to reach out to me:
+## 📧 How to Reach Me
 
-- 📧 Email: afsaruddin01022008@gmail.com
+Feel free to get in touch! I am always open to discussions and collaborations.
 
-Thank you for visiting my GitHub profile, and I hope we can work together soon!
+- 📧 **Email**: afsaruddin01022008@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Afsar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfsarCodeLab&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfsarCodeLab&layout=compact&langs_count=10&hide=html)
+
+---
+
+Thank you for visiting my GitHub profile, and I hope to collaborate with you soon! 🚀
