@@ -1,85 +1,82 @@
-<h1 align="center">🌟 Chowdhury Afsar Uddin – Creative Web Developer & Tech Explorer 🌟</h1>
-<h4 align="center">Building smart digital solutions | Inspired by code, driven by impact</h4>
+<!-- Header Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F79A16&background=000000FF&center=true&width=1000&lines=Hi%2C+I'm+Chowdhury+Afsar+Uddin!;Full-Stack+Developer+%7C+CS+Student+%7C+Tech+Strategist;Welcome+to+my+world+of+creative+coding" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-Full%20Stack-green?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Student-Computer%20Science-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Freelancer-Available-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Developer-Full_Stack-blueviolet?style=flat-square&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Freelancer-Available-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tech_Lover-100%25-green?style=flat-square" />
 </p>
 
 ---
 
-## 📖 About Me
+## 👨‍💻 About Me
 
-Hey there! I'm Chowdhury Afsar Uddin, a passionate web developer and computer science student from Bangladesh.  
-I love turning complex problems into elegant solutions and helping people grow their digital presence.
+I'm Chowdhury Afsar Uddin, a passionate Computer Science student and a creative Web Developer from Bangladesh.  
+I create smart, scalable, and user-focused web solutions with strong attention to performance and design.
 
-- 💻 Currently working on: React projects, Node.js backends, and automation tools
-- 🌱 Learning: AI tools, UI/UX principles, Clean code architecture
-- 🎯 Mission: To use tech for impact, growth, and global collaboration
-
----
-
-## 🚀 Skills & Tools
-
-Languages:  
-JavaScript Python HTML5 CSS3 C++
-
-Frameworks & Libraries:  
-React.js Express.js Flask Node.js
-
-Databases & Hosting:  
-MongoDB MySQL Firebase AWS
-
-Design & Version Control:  
-Figma Git GitHub VS Code
+- 🔭 Currently building SaaS platforms & open-source tools  
+- 🌍 Working with clients globally – from Bangladesh to USA  
+- 🧠 Exploring AI, automation, and backend infrastructure  
+- ❤️ Passionate about clean UI, meaningful UX, and elegant code
 
 ---
 
-## ⭐ Client Feedback Snapshot
-
-> ✔️ 98% client satisfaction  
-> ✔️ 20+ successful freelance & collaborative projects  
-> ✔️ 15+ verified client reviews (local & global)
-
-> _Here’s what some of them say:_
-
-> John (USA) – “Afsar’s code quality is top-notch. Timely, professional, and creative.”  
-> Zara (UK) – “Exceeded my expectations. The UI design was sleek and modern!”  
-> Mehedi (BD) – “যেটা বলেছি তার থেকেও ভালো কিছু পেয়েছি ভাইয়ের কাছ থেকে!”
-
----
-
-## 📈 GitHub Activity
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfsarCodeLab&show_icons=true&theme=midnight-purple&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfsarCodeLab&layout=compact&theme=midnight-purple" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,figma,git,github,firebase,vscode" />
 </p>
 
 ---
 
-## 📂 Featured Work
+## ⭐ Client Testimonials
 
-- Smart Business Website – Dynamic frontend + Node.js API backend  
-- Portfolio CMS – A customizable portfolio system built from scratch  
-- Open Source Contributions – Tools, automation scripts & React components
+> “We hired Afsar to build a full-stack app and he delivered ahead of schedule. Brilliant and dependable.”  
+> — *David R. (USA)*  
+>
+> “Great experience working with him! He’s creative, communicative and very professional.”  
+> — *Elena M. (Germany)*  
+>
+> “এক কথায় অসাধারণ! যেটা চাইছিলাম, তার চেয়েও বেশি কিছু পেয়েছি।”  
+> — *Rafiq (Bangladesh)*  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/20%2B_Clients_Served-%E2%9C%94%EF%B8%8F-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/98%25_Satisfaction_Rate-%E2%AD%90%EF%B8%8F-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/15%2B_Reviews-Verified-yellow?style=flat-square" />
+</p>
 
 ---
 
-## 📬 Contact Me
+## 📊 GitHub Stats
 
-Want to discuss a project, internship, or just say hi? I’d love to connect!
-
-- 📧 Email: afsaruddin01022008@gmail.com  
-- 💬 WhatsApp: [+8801325974242](https://wa.me/8801325974242)  
-- 🌐 Facebook ID: [Chowdhury Afsar Uddin](https://facebook.com/chowdhuryafsaruddin2006)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AfsarCodeLab&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfsarCodeLab&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧭 Let’s Collaborate!
+## 🧠 Currently Learning
 
-> Whether you're a company looking for talent, a client needing tech solutions, or a fellow developer –  
-> Let’s build something impactful together!
+- Clean Architecture with Node.js  
+- Firebase Cloud Functions  
+- AI-based Automation with Python  
+- Open Source Team Contribution
 
-<p align="center"><i>Thank you for visiting. Stay creative. Stay coding!</i></p>
+---
+
+## 📞 Contact Me
+
+> I’m open to freelance projects, internships, collaborations, and remote job opportunities.
+
+- Email: afsaruddin01022008@gmail.com  
+- WhatsApp: [+8801325974242](https://wa.me/8801325974242)  
+- Facebook ID: [Chowdhury Afsar Uddin](https://facebook.com/chowdhuryafsaruddin2006)
+
+---
+
+<p align="center">
+  <b>Thank you for checking out my profile. Let’s build something amazing together!</b><br />
+  <i>– Chowdhury Afsar Uddin</i>
+</p>
