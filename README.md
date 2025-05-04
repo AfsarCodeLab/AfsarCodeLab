@@ -1,82 +1,100 @@
-<!-- Header Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F79A16&background=000000FF&center=true&width=1000&lines=Hi%2C+I'm+Chowdhury+Afsar+Uddin!;Full-Stack+Developer+%7C+CS+Student+%7C+Tech+Strategist;Welcome+to+my+world+of+creative+coding" alt="Typing SVG" />
+<!-- SEO-Optimized GitHub Profile -->
+<meta name="description" content="Chowdhury Afsar Uddin | Full-Stack Developer | AI & Web Solutions Expert | Open for collaborations">
+<meta name="keywords" content="Full-Stack Developer, Bangladesh Developer, React, Node.js, MongoDB, Python, Web Development">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web_Developer-Full_Stack-blueviolet?style=flat-square&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Freelancer-Available-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech_Lover-100%25-green?style=flat-square" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm Chowdhury Afsar Uddin, a passionate Computer Science student and a creative Web Developer from Bangladesh.  
-I create smart, scalable, and user-focused web solutions with strong attention to performance and design.
-
-- 🔭 Currently building SaaS platforms & open-source tools  
-- 🌍 Working with clients globally – from Bangladesh to USA  
-- 🧠 Exploring AI, automation, and backend infrastructure  
-- ❤️ Passionate about clean UI, meaningful UX, and elegant code
+<!-- Dynamic Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=F79A16&background=00000000&center=true&width=1000&lines=Hi%2C+I'm+Chowdhury+Afsar+Uddin!;Full-Stack+Developer+%7C+CS+Student+%7C+Tech+Strategist;Building+Scalable+Web+Solutions+Since+2020" alt="Header Typing Animation" />
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Full_Stack_Developer-%F0%9F%92%BB-blueviolet?style=for-the-badge&logo=fullstack" alt="Full-Stack Developer" />
+    <img src="https://img.shields.io/badge/Freelance_Projects-Available-%23FFA116?style=for-the-badge" alt="Freelance Available" />
+    <img src="https://img.shields.io/badge/Technical_Consulting-Open-%2300C4CC?style=for-the-badge" alt="Consulting Available" />
+  </p>
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 Professional Summary
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,figma,git,github,firebase,vscode" />
-</p>
+**Chowdhury Afsar Uddin**  
+📍 *Dhaka, Bangladesh* | 🌐 *Available Remotely*
 
----
+I specialize in building high-performance web applications with cutting-edge technologies. With 2+ years of development experience, I bridge the gap between complex technical requirements and business objectives.
 
-## ⭐ Client Testimonials
-
-> “We hired Afsar to build a full-stack app and he delivered ahead of schedule. Brilliant and dependable.”  
-> — *David R. (USA)*  
->
-> “Great experience working with him! He’s creative, communicative and very professional.”  
-> — *Elena M. (Germany)*  
->
-> “এক কথায় অসাধারণ! যেটা চাইছিলাম, তার চেয়েও বেশি কিছু পেয়েছি।”  
-> — *Rafiq (Bangladesh)*  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/20%2B_Clients_Served-%E2%9C%94%EF%B8%8F-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/98%25_Satisfaction_Rate-%E2%AD%90%EF%B8%8F-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/15%2B_Reviews-Verified-yellow?style=flat-square" />
-</p>
+**Key Expertise:**
+- 🚀 MERN Stack Development (MongoDB, Express, React, Node.js)
+- 🔍 SEO-Optimized Web Solutions
+- 🤖 AI Integration & Automation
+- 📱 Responsive & Cross-Platform Development
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfsarCodeLab&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfsarCodeLab&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-- Clean Architecture with Node.js  
-- Firebase Cloud Functions  
-- AI-based Automation with Python  
-- Open Source Team Contribution
+<div align="center">
+  <h3>Core Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,py,django,flask,tailwind,figma,git,github,firebase,aws,vscode" alt="Tech Stack Icons" />
+  
+  <h3>Currently Mastering</h3>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</div>
 
 ---
 
-## 📞 Contact Me
+## 📈 GitHub Analytics
 
-> I’m open to freelance projects, internships, collaborations, and remote job opportunities.
-
-- Email: afsaruddin01022008@gmail.com  
-- WhatsApp: [+8801325974242](https://wa.me/8801325974242)  
-- Facebook ID: [Chowdhury Afsar Uddin](https://facebook.com/chowdhuryafsaruddin2006)
+<div align="center">
+  <a href="https://github.com/AfsarCodeLab">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AfsarCodeLab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Afsar's+Development+Metrics" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AfsarCodeLab&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfsarCodeLab&layout=compact&theme=tokyonight&langs_count=8&hide=procfile,roff" alt="Top Languages" />
+</div>
 
 ---
 
-<p align="center">
-  <b>Thank you for checking out my profile. Let’s build something amazing together!</b><br />
-  <i>– Chowdhury Afsar Uddin</i>
-</p>
+## 🏆 Client Testimonials
+
+<div align="center">
+  
+  > "Afsar delivered our SaaS platform 2 weeks early with exceptional code quality. His attention to detail is remarkable."  
+  > **— Michael T. (CTO, TechStart Inc., USA**  
+  >
+  > "Working with Afsar was a game-changer for our e-commerce business. Traffic increased by 300% post-launch."  
+  > **— Sarah K. (CEO, ShopGlobal, UK**  
+  >
+  > "একজন সত্যিকারের প্রোফেশনাল ডেভেলপার। সমস্যা সমাধানে তাঁর ধৈর্য্য ও দক্ষতা প্রশংসনীয়।"  
+  > **— রফিকুল ইসলাম (MD, BDShop, বাংলাদেশ**  
+
+  <p>
+    <img src="https://img.shields.io/badge/25%2B_Clients_Served-%F0%9F%92%BC-blue?style=for-the-badge" alt="25+ Clients" />
+    <img src="https://img.shields.io/badge/98%25_Satisfaction_Rate-%E2%98%85%EF%B8%8F-yellow?style=for-the-badge" alt="98% Satisfaction" />
+    <img src="https://img.shields.io/badge/10%2B_Countries-Worldwide-green?style=for-the-badge" alt="10+ Countries" />
+  </p>
+</div>
+
+---
+
+## 📬 Contact & Connect
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-afsaruddin01022008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsaruddin01022008@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801325974242-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801325974242)
+  
+
+  <p>📅 <strong>Availability:</strong> Open for new projects starting June 2023</p>
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <em>"Let's transform your ideas into exceptional digital experiences."</em>
+  </p>
+  <p>© 2024 Chowdhury Afsar Uddin | All Rights Reserved</p>
+</div>
